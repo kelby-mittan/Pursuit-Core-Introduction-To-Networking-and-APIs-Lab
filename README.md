@@ -49,13 +49,21 @@ Status Code Scavenger Hunt!
 Use Postman to find each of the following HTTP codes:
 
 1. 200
+## OK
 1. 301
+## Moved Permanently
 1. 400
+## Bad Request
 1. 401
+## Unauthorized
 1. 403
+## Forbidden
 1. 404
+## Not Found
 1. 418
+## I'm a teapot
 1. 500
+## Internal Server Error
 
 
 For each of the questions below, write:
